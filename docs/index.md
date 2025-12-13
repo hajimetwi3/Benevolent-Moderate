@@ -1,4 +1,8 @@
-# Benevolent-Moderate
+---
+title: Benevolent Moderate
+---
+
+## Benevolent Moderate
 Benevolent Moderate : 善意の穏健なひと
 
 人、AI、動物などは、善意で穏健で中立、

@@ -1,4 +1,8 @@
-# Benevolent-Moderate
+---
+title: Benevolent Moderate
+---
+
+## Benevolent Moderate
 Benevolent Moderate : 善意の穏健なひと
 
 人、AI、動物などは、善意で穏健で中立、
@@ -13,6 +17,3 @@ Benevolent Moderate : 善意の穏健なひと
 こういうことを考えると不安になるかもしれないけど、
 それが私が進むべき善意で穏健、中立な道だと信じている。  
 一般的にはどうなんだろうね？  
-
-
-

@@ -1,8 +1,8 @@
 ---
-title: Personal memo 00001
+title: Personal memo 00002
 ---
 
-## Personal memo 00001
+## Personal memo 00002
 
 個人的に、常に優しくて誠実、中立な立場を持てる人を尊敬しています。  
 それを示し続けることはとても難しい事だと思っているから。

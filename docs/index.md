@@ -18,3 +18,6 @@ Benevolent Moderate : 善意の穏健なひと
 それが私が進むべき善意で穏健、中立な道だと信じている。  
 一般的にはどうなんだろうね？  
 
+## 個人的なメモ集  
+- [personal_memo](general/index.md)  
+

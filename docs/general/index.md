@@ -8,3 +8,6 @@ title: Personal Memo Collection
 私の想い大切にして欲しいな。
 
 
+## メモ
+- [personal_memo00001](personal_memo00001.md)
+- [personal_memo00002](personal_memo00002.md)

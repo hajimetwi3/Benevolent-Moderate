@@ -9,6 +9,6 @@ title: Personal Memo Collection
 
 
 ## メモ
-- [personal_memo00001](personal_memo00001.md)
-- [personal_memo00002](personal_memo00002.md)
-- [personal_memo00003](personal_memo00003.md)
+- [personal_memo00001.html](personal_memo00001.md)
+- [personal_memo00002.html](personal_memo00002.md)
+- [personal_memo00003.html](personal_memo00003.md)

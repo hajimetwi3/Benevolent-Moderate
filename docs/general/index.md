@@ -12,3 +12,8 @@ title: Personal Memo Collection
 - [personal_memo00001.html](personal_memo00001.md)
 - [personal_memo00002.html](personal_memo00002.md)
 - [personal_memo00003.html](personal_memo00003.md)
+- [personal_memo00004.html](personal_memo00004.md)
+- [personal_memo00005.html](personal_memo00005.md)
+- [personal_memo00006.html](personal_memo00006.md)
+- [personal_memo00007.html](personal_memo00007.md)
+

@@ -19,5 +19,6 @@ title: Personal Memo Collection
 - [personal_memo00008.html](personal_memo00008.md)
 - [personal_memo00009.html](personal_memo00009.md)
 - [personal_memo00010.html](personal_memo00010.md)
+- [personal_memo00011.html](personal_memo00011.md)
 
 
